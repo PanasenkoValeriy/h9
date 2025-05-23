@@ -1,0 +1,11 @@
+.stickerList {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 970px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  padding: 15px;
+}

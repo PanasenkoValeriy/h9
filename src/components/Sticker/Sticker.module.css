@@ -1,0 +1,12 @@
+.sticker {
+  width: 300px;
+  padding: 15px;
+  background-color: rgb(148, 133, 112);
+  border-radius: 15px;
+}
+
+.text {
+  font-size: 24px;
+  text-align: center;
+  color: rgb(243, 146, 11);
+}
