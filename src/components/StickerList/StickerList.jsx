@@ -1,4 +1,4 @@
-import { Sticker } from 'components/Sticker/Sticker';
+import Sticker from 'components/Sticker/Sticker';
 import css from './StickerList.module.css';
 
 export const StickerList = ({ stickers }) => {
